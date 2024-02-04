@@ -7,6 +7,9 @@
 
 ## after login : 
 
+<img width="1440" alt="Screen Shot 2024-02-04 at 15 13 27" src="https://github.com/Omarab2022/OAuth2------Spring-boot-Angular---/assets/99898445/c9568391-e2aa-4bac-8acc-0019a64dbffd">
+
+
 <img width="1440" alt="Screen Shot 2024-02-04 at 15 49 12" src="https://github.com/Omarab2022/OAuth2------Spring-boot-Angular---/assets/99898445/0a185bf0-a44e-48d6-9887-5417334c3e71">
 
 
