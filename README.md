@@ -1,4 +1,4 @@
-# OAuth2 :  Spring-boot+Angular  
+# OAuth2 : Spring-boot+Angular  
  Fullstack app spring angular using Oauth2 
 
  ## before login : 
